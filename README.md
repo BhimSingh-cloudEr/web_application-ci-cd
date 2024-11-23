@@ -1,2 +1,2 @@
-# web_application-ci-cd
-Host a web application using CICD pipeline.
+# simple-java-docker
+A simple java app that runs on docker 
